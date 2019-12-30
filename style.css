@@ -1,0 +1,44 @@
+/* Top */
+li {
+	display: inline;
+}
+
+.top-left {
+	float: left;
+}
+
+.top-right {
+	float: right;
+}
+/* ------------------- */
+
+/* Center */
+img {
+	display: block;
+	margin: 0 auto;
+	padding-top: 109px;
+}
+
+.textfield {
+	display: block;
+	margin: 0 auto;
+}
+
+.button {
+	text-align: center;
+}
+/* --------------------- */
+
+/* Bottom */
+.bottom-left {
+	float: left;
+}
+
+.bottom-right {
+	float: right;
+}
+
+.botton {
+	bottom: 0;
+}
+/* ----------------------- */
