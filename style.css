@@ -82,9 +82,9 @@ a:hover {
 .text input[type='text'] {
 	display: block;
 	font-size: 1em;
-	height: 45px;
+	height: 35px;
 	width: 400px;
-	transform: translate(10%, -50%);
+	transform: translate(10%, -54%);
 	border-style: none;
 }
 
